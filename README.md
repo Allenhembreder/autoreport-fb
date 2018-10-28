@@ -11,3 +11,4 @@ Installation :
 1. sudo apt-get install libssl-dev zlib1g-dev
 2. sudo gem install nokogiri mechanize colorize highline
 3. Run
+4. lo ngentot
